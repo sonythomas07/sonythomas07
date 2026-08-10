@@ -58,7 +58,7 @@
 ###
 
 <p data-importer="text" align="left">
-<a href="YOUR-SAAS-REPO-LINK">SaaS Admin Dashboard</a>
+<a href="https://github.com/sonythomas07/dashflow-saas-dashboard">SaaS Admin Dashboard</a>
 </p>
 
 <p data-importer="text" align="left">
@@ -72,7 +72,7 @@ Tech: HTML, CSS, JavaScript
 ###
 
 <p data-importer="text" align="left">
-<a href="YOUR-PORTFOLIO-REPO-LINK">Portfolio Website</a>
+<a href="https://github.com/sonythomas07/sony-portfolio">Portfolio Website</a>
 </p>
 
 <p data-importer="text" align="left">
