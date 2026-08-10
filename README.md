@@ -41,7 +41,7 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/sonythomas07/sonythomas07/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sonythomas07/sonythomas07/output/github-snake.svg" alt="Snake animation" />
 
 ###
 
