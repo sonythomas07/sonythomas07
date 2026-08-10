@@ -185,16 +185,6 @@ Final-year **B.Tech in Computer Science and Engineering**
 
 <br><br>
 
-✨ *Always learning. Always building.*
-
-<br>
-
-☕ *Powered by curiosity, creativity & coffee.*
-
-</div>
-
-<br>
-
 <div align="center">
 
 ### 🌙 See you around
@@ -206,3 +196,7 @@ Final-year **B.Tech in Computer Science and Engineering**
 ☕ *Good ideas, good design & a little coffee.*
 
 </div>
+
+<br>
+
+
