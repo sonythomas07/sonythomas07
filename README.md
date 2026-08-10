@@ -75,7 +75,7 @@ I'm interested in the space between **how something works** and **how it feels t
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,figma,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,vscode" />
 
 </div>
 
@@ -143,7 +143,9 @@ A modern admin dashboard focused on **analytics, user management, subscriptions,
 
 ## 🎨 UX & Design
 
-I'm currently working on my first **UX case study**, going beyond visual design into the actual problem-solving process.
+I'm currently working on a **self-initiated UX case study called QuickKart**, created to practice the complete UX design process from research to interface design.
+
+I've completed the **UX phase**, including research, stakeholder understanding, user research, user flows, and wireframing, and I'm currently working on the **UI design phase**.
 
 **Research → Stakeholder understanding → User research → User flows → Wireframes → UI Design**
 
@@ -159,9 +161,9 @@ I'm currently working on my first **UX case study**, going beyond visual design 
 
 ## 🎓 Education
 
-**Computer Science**
+**Hindustan Institute of Technology and Science (HITS)**
 
-Currently pursuing my degree with a growing focus on **UI/UX, front-end development, and AI-powered applications**.
+Final-year **B.Tech in Computer Science and Engineering**
 
 <br>
 
