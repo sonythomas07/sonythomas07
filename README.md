@@ -55,8 +55,6 @@ I'm interested in the space between **how something works** and **how it feels t
 
 `JavaScript`
 
-`Python`
-
 `Figma`
 
 `AI`
