@@ -197,8 +197,12 @@ Final-year **B.Tech in Computer Science and Engineering**
 
 <div align="center">
 
-### 🌙 Thanks for stopping by
+### 🌙 See you around
 
-*Building things I enjoy. Learning things I don't know. Designing things people love.*
+*Designing with curiosity. Building with purpose. Learning along the way.*
+
+<br>
+
+☕ *Good ideas, good design & a little coffee.*
 
 </div>
